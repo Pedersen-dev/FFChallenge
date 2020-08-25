@@ -12333,11 +12333,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micpe\\source\\repos\\FFCodeChallenge\\FFCodeChallenge\\FFCodeChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\micpe\\Desktop\\FFCodeChallenge\\FFCodeChallenge\\FFCodeChallenge\\FFCodeChallenge.csproj",
       "projectName": "FFCodeChallenge",
-      "projectPath": "C:\\Users\\micpe\\source\\repos\\FFCodeChallenge\\FFCodeChallenge\\FFCodeChallenge.csproj",
+      "projectPath": "C:\\Users\\micpe\\Desktop\\FFCodeChallenge\\FFCodeChallenge\\FFCodeChallenge\\FFCodeChallenge.csproj",
       "packagesPath": "C:\\Users\\micpe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micpe\\source\\repos\\FFCodeChallenge\\FFCodeChallenge\\obj\\",
+      "outputPath": "C:\\Users\\micpe\\Desktop\\FFCodeChallenge\\FFCodeChallenge\\FFCodeChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

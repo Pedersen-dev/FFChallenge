@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using FFCodeChallenge.DataInputHandler;
-using FFCodeChallenge.RouteCompose.Model;
 using FFCodeChallenge.RouteCompose;
+using FFCodeChallenge.RouteCompose.Model;
 
 namespace FFCodeChallenge.Controllers
 {

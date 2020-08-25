@@ -23,7 +23,7 @@ namespace FFCodeChallenge.RouteCompose
             //Tidsmåling/iteration start
             Stopwatch sw = new Stopwatch();
             sw.Start();
-            int iterations = 100000;
+            int iterations = 10000;
 
             (int, List<int>) resultPair = (int.MinValue, null);
             for (int i = 0; i < iterations; i++)
