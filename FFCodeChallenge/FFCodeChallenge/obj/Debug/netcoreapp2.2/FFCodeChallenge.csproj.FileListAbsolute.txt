@@ -1,0 +1,14 @@
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\bin\Debug\netcoreapp2.2\FFCodeChallenge.deps.json
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\bin\Debug\netcoreapp2.2\FFCodeChallenge.runtimeconfig.json
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\bin\Debug\netcoreapp2.2\FFCodeChallenge.runtimeconfig.dev.json
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\bin\Debug\netcoreapp2.2\FFCodeChallenge.dll
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\obj\Debug\netcoreapp2.2\FFCodeChallenge.csprojAssemblyReference.cache
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\obj\Debug\netcoreapp2.2\FFCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\obj\Debug\netcoreapp2.2\FFCodeChallenge.RazorAssemblyInfo.cache
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\obj\Debug\netcoreapp2.2\FFCodeChallenge.RazorAssemblyInfo.cs
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\obj\Debug\netcoreapp2.2\FFCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\obj\Debug\netcoreapp2.2\FFCodeChallenge.AssemblyInfo.cs
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\obj\Debug\netcoreapp2.2\FFCodeChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\bin\Debug\netcoreapp2.2\FFCodeChallenge.pdb
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\obj\Debug\netcoreapp2.2\FFCodeChallenge.dll
+C:\Users\micpe\source\repos\FFCodeChallenge\FFCodeChallenge\obj\Debug\netcoreapp2.2\FFCodeChallenge.pdb
